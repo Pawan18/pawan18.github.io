@@ -15,9 +15,9 @@ Prior to joining Northwestern, I obtained my M.S. (by Research) in Electrical En
 
 Research Interests
 ======
-* Dynamic Bayesian Inference
+* Sequential Multi-agent Learning
 * Stochastic modeling
-* Game theory
+* Game theory and Network Economics
 * Reinforcement Learning
 
 Education                                                                                    
