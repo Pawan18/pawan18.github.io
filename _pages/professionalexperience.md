@@ -15,10 +15,10 @@ redirect_from:
 Services
 =====
 * **Reviewer**:
+  - Intl. Symposium on Information Theory (ISIT) - 2021, 2024, 2025
   - Transactions on Networking (ToN) - 2021
   - Journal on Selected Areas in Communication (JSAC) - 2017
-  - Intl. Symposium on Information Theory (ISIT) - 2021, 2024
-  - National Conference on Communications (NCC) - 2017, 2018.
+  - National Conference on Communications (NCC) - 2017, 2018
   - Mobile AdHoc Networking and Computing (ACM MobiHoc) - 2017
   - Intl. Conference on Signal Processing and Communications (SPCOM) - 2018
     
