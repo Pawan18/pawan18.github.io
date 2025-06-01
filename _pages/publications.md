@@ -27,3 +27,13 @@ redirect_from:
 * **P. Poojary**, S. Moharir, and K. Jagannathan, [“**Caching policies under content freshness constraints**”](https://ieeexplore.ieee.org/document/8328227),in 10 th International Conference on Communication Systems and Networks (COMSNETS), 2018. (recipient of the **“Best Poster Paper” Award**)
 
 
+Posters
+=====
+* **Bayesian learning in Mean-Field Games with observational noise**:
+  - in Midwest Workshop on Control and Game Theory (MWCGT) | [poster link](https://drive.google.com/file/d/1V5j8QqRDDf-0uoOPvvq9PkdmudeZ6bvw/view) | [press release](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2024/advancing-control-and-game-theory-in-the-midwest.html) April 2024
+  - in Midwest Machine Learning Symposium (MMLS) May 2023
+  - in the annual meeting of Institute for Data, Econometrics, Algorithms, and Learning (IDEAL) June 2023
+
+* **Caching policies under content freshness constraints**:
+  - 10th International Conference on Communication Systems and Networks (COMSNETS) | [poster link](https://drive.google.com/file/d/1FJ9f0umXMPMczrqe49rdB-EgW3CM9gqx/view) Jan 2018
+
