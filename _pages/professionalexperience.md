@@ -27,7 +27,3 @@ Services
   - Organizer and Treasurer for the Indian Graduate Students and Scholars Association (IGSSA) at Northwestern - Sept 2019 - Dec 2023
   - National Conference on Communications (NCC) - 2017
   - Mobile AdHoc Networking and Computing (ACM MobiHoc) - 2017
-
-* **Mentoring**:
-  - Mentored Shuo Wu, Ph.D. student at University of Illinois Chicago.
-  - Mentored Northwestern graduate student Yuming Han, currently pursuing Ph.D. at Texas A&M University.
