@@ -16,3 +16,9 @@ redirect_from:
 
 
 * The **TA** work included **delivering a few lectures**, **conducting tutorial classes** and **doubt-solving sessions**, **setting up weekly assignments** and **grading assignments** and **examinations**.
+
+
+* **Mentoring**:
+  - Mentored Shuo Wu, Ph.D. student at University of Illinois Chicago.
+  - Mentored Northwestern graduate student Yuming Han, currently pursuing Ph.D. at Texas A&M University.
+
