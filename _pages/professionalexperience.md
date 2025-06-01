@@ -23,7 +23,7 @@ Services
   - Intl. Conference on Signal Processing and Communications (SPCOM) - 2018
     
 * **Volunteer**:
-  - Midwest Workshop on Control and Game Theory (MWCGT) - 2024 ([press release](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2024/advancing-control-and-game-theory-in-the-midwest.html))
+  - Midwest Workshop on Control and Game Theory (MWCGT) ([press release](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2024/advancing-control-and-game-theory-in-the-midwest.html)) - 2024
   - Organizer and Treasurer for the Indian Graduate Students and Scholars Association (IGSSA) at Northwestern - Sept 2019 - Dec 2023
   - National Conference on Communications (NCC) - 2017
   - Mobile AdHoc Networking and Computing (ACM MobiHoc) - 2017
